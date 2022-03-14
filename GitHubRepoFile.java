@@ -14,6 +14,10 @@ public class GitHubRepoFile {
             res = one+two;
             System.out.println("The Result is: "+res);
         }
+        if (inp ==2){
+            res = one-two;
+            System.out.println("The Result is: "+res);
+        }
 
     }
 }
